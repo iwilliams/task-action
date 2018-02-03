@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/iwilliams/task-action.git"
   },
-  "author": "",
+  "author": {
+    "name": "Ian Williams",
+    "email": "ian@iwillia.ms",
+    "url": "https://github.com/iwilliams"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/iwilliams/task-action/issues"
